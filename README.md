@@ -7,3 +7,5 @@
 <img src="https://i.ibb.co/BH9zBcGd/Untitled30-20260802053050.png" width="550"  alt="Alt text" />
 
 <br/>[<img src="https://i.imgur.com/VWkoA4M.png" width="190"/>](https://oveertime.straw.page/) <img src="https://i.imgur.com/yo30tex.png" width="100"/> [<img src="https://i.imgur.com/2qOAlEK.png" width="190"/>](https://reversecursed.atabook.org/)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316l5f27abrxalshadl6wje2smou&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ead5d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
